@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publisher Resources on Name Change Policy Working Group</title>
+    <link>/resources/resource-publisher/</link>
+    <description>Recent content in Publisher Resources on Name Change Policy Working Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Theme &amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/resources/resource-publisher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Policy for Publishers</title>
+      <link>/resources/resource-publisher/sample-policy/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/resource-publisher/sample-policy/</guid>
+      <description>&lt;p&gt;Sample Name Change Policy for Publishers&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Workflow Templates for Publishers</title>
+      <link>/resources/resource-publisher/workflow-templates/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/resource-publisher/workflow-templates/</guid>
+      <description>&lt;p&gt;Sample Workflow Templates for Publishers&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Publisher Directory</title>
+      <link>/resources/resource-publisher/publisher-directory/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/resource-publisher/publisher-directory/</guid>
+      <description>&lt;p&gt;A directory of publishers with name change policies, a link to those policies, and any relevant email addresses maintained by publishers for name change requests&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

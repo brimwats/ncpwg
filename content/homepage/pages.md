@@ -1,8 +1,8 @@
 ---
-title: Pages
+title: Five guiding principles and best practices
 draft: false
 # Section you want to display
-section: posts
+section: principles
 # Pages count
 count: 5
 # Options: card, plain and masonry.
