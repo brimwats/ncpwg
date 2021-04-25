@@ -40,7 +40,7 @@ widget:
 The Trans Name Change Policy Working Group was founded to encourage the amendment or updating of publisher name change policies for transgender, nonbinary, gender non-conforming authors who have been deeply harmed from publisher policies. These policies have also harmed married women who change their names, indigenous authors with name changes, or foreign authors with misspellings. This page serves as a knowledge and resource base for the working group, interested individuals, and others.
 
 
-Originally posted at the [Council for Publishing Ethics](https://publicationethics.org/news/vision-more-trans-inclusive-publishing-world).
+Originally posted at the [Committee on Publication Ethics](https://publicationethics.org/news/vision-more-trans-inclusive-publishing-world).
 
 Transgender, non-binary, and/or gender diverse—here shortened to “trans”—authors seeking to receive full credit for their work face unique challenges and risks. Trans people do not receive the same legal protections against discrimination as cisgender people worldwide; they are subject to significant risk of discrimination, harassment, and violence; and many experience a particular form of personal trauma connected to their pre-transition identities that makes them especially vulnerable within the academic community. One significant source of epistemic labor, risk, and trauma for transgender authors, is the continued circulation of their previous name. In this article, we present five high level principles for trans-inclusive name changes in academic publishing and consider the implications of such a paradigm shift within the scholarly world.
 
