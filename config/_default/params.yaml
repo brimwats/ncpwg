@@ -1,6 +1,6 @@
 mainSections:
   - posts
-description: Eureka is a elegant and powerful theme for Hugo.
+description: A homepage and resource guide for the Name Change Policy Working Group.
 
 repoURL:
 # If it is a Github repo, leave blank
@@ -14,7 +14,7 @@ titleSeparator:
 colorScheme: auto
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-siteType: Organization
+siteType: EducationalOrganization
 icon: images/icon.png
 publisherName: Name Change Policy Working Group
 #publisherLogo:
