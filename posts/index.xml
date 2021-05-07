@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Name Change Policy Working Group</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Name Change Policy Working Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Theme &amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility</title>
+      <link>/posts/accessibility/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/accessibility/</guid>
+      <description>Principal # 1 Name changes should be available to authors upon request without legal documentation, unnecessary barriers, burdens, or labor placed upon the author making the request.
+Many publishers struggle with the extent to which such a policy should require “proof” from the requesting author, and what the burden of proof should be. Publishers raise the concern that such a policy might be exploited and allow bad actors to engage in unethical or fraudulent behavior. Such fears are not based in evidence or precedent.</description>
+    </item>
+    
+    <item>
+      <title>Comprehensiveness</title>
+      <link>/posts/comprehensiveness/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/comprehensiveness/</guid>
+      <description>Principal #2 Name changes should remove all instances of an author&amp;rsquo;s previous name from the records maintained and disseminated by the publisher.
+Due to the aforementioned risks of disclosure, publishers must take care to not retain public facing records of the author’s previous name in any venue. This includes, but is not limited to, metadata, archival digital documents authored by requesting author as well as works citing them, tables of content, acknowledgments, and other paratextual materials, website URLs, search engines, database entries, in text citations, and bibliographic entries.</description>
+    </item>
+    
+    <item>
+      <title>Expediency &amp; Simplicity</title>
+      <link>/posts/expediency-simplicity/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/expediency-simplicity/</guid>
+      <description>Principal #4 Name changes should be implemented in a timely manner, and with a minimum of bureaucratic overhead.
+The longer an incorrect name persists within the published record, the larger the potential burden to the publisher to correct that name. Erroneous citations will continue to accrue as new people are discovering and indexing the work under the incorrect name. Publishers should act swiftly to correct names as soon as they are made aware of the need for change.</description>
+    </item>
+    
+    <item>
+      <title>Invisibility</title>
+      <link>/posts/invisibility/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/invisibility/</guid>
+      <description>Principal #3 Name changes should not draw attention to the gender identity of an author, nor create a clear juxtaposition between the current name and the previous name.
+Transgender people face significant discrimination, bias, and precarity as a consequence of their gender identity. Published works associated with a trans person’s previous name represent a direct threat to the safety and wellbeing of trans people, potentially exposing them to harm, including online harassment, employment discrimination, in-person assault, and even state sanctioned incarceration and violence in some regions.</description>
+    </item>
+    
+    <item>
+      <title>Recurrence &amp; Maintenance</title>
+      <link>/posts/recurrence-maintenance/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/recurrence-maintenance/</guid>
+      <description>Principal #5 Publishers should regularly audit and correct new instances of changed names in order to prevent ongoing dissemination of incorrect information.
+Due to the citation driven nature of academic publishing, a single, swift, silent, comprehensive effort to correct a trans author&amp;rsquo;s name is insufficient to prevent inadvertent disclosure and the associated risks and arms it carries. Once a name change has been implemented, publishers should be prepared for some degree of ongoing maintenance of their records to remove recurrences of the previous name.</description>
+    </item>
+    
+  </channel>
+</rss>
