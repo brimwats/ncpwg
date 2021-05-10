@@ -2,7 +2,7 @@ mainSections:
   - posts
 description: A homepage and resource guide for the Name Change Policy Working Group.
 
-repoURL: https://github.com/brimwats/ncpwg
+repoURL:
 # If it is a Github repo, leave blank
 repoEditURL:
 
