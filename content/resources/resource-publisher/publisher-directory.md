@@ -7,7 +7,7 @@ tags:
 categories:
 series:
 date: '2020-10-11'
-draft: false
+draft: true
 ---
 
 A directory of publishers with name change policies, a link to those policies, and any relevant email addresses maintained by publishers for name change requests
