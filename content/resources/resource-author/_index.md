@@ -1,6 +1,6 @@
 ---
 title: Author Resources
-description: This section includes links to the articles and editorials we've written, as well as email templates for reaching out to publishers.
+description: This section includes a list of publishers and journals with existing name change policies, links to articles and editorials we’ve written, as well as email templates for reaching out to publishers.
 toc: true
 authors: twg
 tags:
@@ -10,7 +10,7 @@ date: '2021-06-19'
 draft: false
 ---
 
-This section includes ressources for authors: A list of publishers and journals with existing name change policies, links to articles and editorials we’ve written, as well as email templates for reaching out to publishers.
+This section includes resources for authors: A list of publishers and journals with existing name change policies, links to articles and editorials we’ve written, as well as email templates for reaching out to publishers.
 
 <!--more-->
 
