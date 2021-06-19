@@ -15,7 +15,7 @@ This section includes resources for publishers who want to introduce a name chan
 
 ## Existing Policies
 
-- We have outlined [five high-level principles for trans-inclusive name changes in academic publishing](/principles/). The Committee on Publication Ethics has [formed a working group](https://publicationethics.org/news/update-cope-guidance-regarding-author-name-changes) that will published more detailed guidance based on these high-level principles soon.
+- We have outlined [five high-level principles for trans-inclusive name changes in academic publishing](/principles/). The Committee on Publication Ethics has [formed a working group](https://publicationethics.org/news/update-cope-guidance-regarding-author-name-changes) that will publish more detailed guidance based on these high-level principles soon.
 
 - We have created a [public spreadsheet of publishers or journals with existing name change policies](https://emckclac-my.sharepoint.com/:x:/g/personal/k2032402_kcl_ac_uk/EVsKedB_EEhMireN1G8OB8IBnhb9q5v8nUigm5FG9N1Ffg) and whether they follow these high-level principles.
 
