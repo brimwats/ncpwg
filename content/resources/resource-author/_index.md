@@ -10,7 +10,9 @@ date: '2021-06-19'
 draft: false
 ---
 
-This section includes links to the articles and editorials we've written, as well as email templates for reaching out to publishers
+This section includes ressources for authors: A list of publishers and journals with existing name change policies, links to articles and editorials we’ve written, as well as email templates for reaching out to publishers.
+
+<!--more-->
 
 ## Existing Policies
 
@@ -28,3 +30,7 @@ If you are aware of any policies missing from that spreadsheet, please let us kn
 - [Visible name changes promote inequity for transgender researchers](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001104). PLOS Biology Perspective by Leo Chan Gaskins and Craig R. McClain, 9 March 2021.
 
 - [Publishers: Changing the names of trans people in their own work is not enough](https://perspectivesblog.sagepub.com/blog/author-services/publishers-changing-the-names-of-trans-people-in-their-own-work-is-not-enough). SAGE Perspectives article by Theresa Jean Tanenbaum, 19 May 2021.
+
+## Email Templates
+
+We are currently preparing email templates for authors. Please check back later.
