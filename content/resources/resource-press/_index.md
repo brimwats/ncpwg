@@ -1,25 +1,48 @@
 ---
 title: Press
-description: This section includes articles about the Working Group, press releases from publishers that cite us, and places where we've given interviews or quotes.
+description: This section includes articles on author name changes or press releases from publishers that cite our working group or individual members.
 toc: false
 authors: twg
 tags:
 categories:
 series:
-date: '2021-01-13'
+date: '2021-06-19'
 draft: false
 ---
 
-This section includes articles about the Working Group, press releases from publishers that cite us, and places where we've given interviews or quotes.
+This section includes articles on author name changes or press releases from publishers that cite our working group or individual members.
 
-## Articles About the Working Group
+<!--more-->
 
-- Sed efficitur nibh sed euismod dictum. Donec posuere, nisl a egestas dignissim, risus magna placerat tortor, quis tincidunt ipsum erat at nunc. Cras consectetur ex eget tortor fermentum mattis. Nullam sodales sed purus eget ornare. Vestibulum aliquam cursus odio vitae placerat. Etiam vel pharetra diam. Morbi molestie varius tincidunt. Morbi molestie tortor vitae metus venenatis, ut fermentum nisl luctus. Aenean at condimentum lorem, rhoncus dapibus nibh. Donec et dui consequat ipsum ultrices tristique vitae vitae est.
+## Articles
 
-## Press Releases from Publishers
+- The Scientist: [Publishers Develop Inclusive Name-Change Policies](https://www.the-scientist.com/news-opinion/publishers-develop-inclusive-name-change-policies-67740). Quotes from Theresa Tanenbaum, 14 July 2020.
 
-- In ornare ultricies sapien in tincidunt. Integer malesuada tellus sed nibh dictum facilisis non sit amet nibh. Vestibulum sed tincidunt ante, nec tincidunt lectus. Pellentesque id dolor ipsum. Sed efficitur tristique mauris eu tristique. Aliquam nec volutpat dolor. Praesent vitae feugiat nibh. Curabitur mollis placerat sem, ut eleifend mi. Sed sed nisl elit. Pellentesque eget elit nec arcu imperdiet imperdiet. Aliquam dictum arcu ac pharetra rutrum.
+- Pink News: [A trans academic asked her publishers to change her name on her past works. They all refused](https://www.pinknews.co.uk/2020/07/27/deadnamed-transgender-research-theresa-jean-tanenbaum-nature-journal/). Quotes from Theresa Tanenbaum’s [Nature article](https://www.nature.com/articles/d41586-020-02145-3), 27 July 2020.
 
-## Interviews, Quotes, etc. 
+- Advanced Science News: [Anonymous name change policies for a more inclusive publishing world](https://www.advancedsciencenews.com/anonymous-name-change-policies-for-a-more-inclusive-publishing-world/). Quotes from Theresa Tanenbaum, 3 February 2021.
 
-- Donec iaculis bibendum suscipit. Ut egestas ligula vel orci posuere scelerisque. Nam vel elementum nibh, congue tempus sapien. Aliquam luctus ante sit amet urna vehicula hendrerit. Morbi at ante nisl. Sed euismod vel dolor in iaculis. Aliquam lacinia lorem sit amet vestibulum finibus. Nulla facilisi. Vivamus lacinia consectetur hendrerit. Integer commodo a nibh nec rhoncus. Nulla non aliquet erat. Cras vel orci a urna malesuada viverra vel quis nisi. Donec pharetra laoreet ante, vulputate volutpat ante consequat eget. Donec efficitur consequat nisi vitae volutpat. Vestibulum volutpat, odio nec sodales cursus, ligula nulla pellentesque erat, ut iaculis magna lorem non purus. Curabitur efficitur tortor et elit sodales, in lobortis risus feugiat.
+- Obvious, the Podcast: [Haunted by her Deadname](https://anchor.fm/obvious-the-podcast/episodes/1-4-Haunted-by-her-Deadname-eqlest/a-a4mkbu7). Podcast episode featuring Theresa Tanenbaum, 21 February 2021.
+
+- Science: [New, more inclusive journal policies ease author name changes on published papers](https://www.sciencemag.org/careers/2021/02/new-more-inclusive-journal-policies-ease-author-name-changes-published-papers). Quotes from Teddy Goetz, Irving Rettig and Theresa Tanenbaum, 25 February 2021.
+
+- Physics World: [Scientific-journal publishers announce trans-inclusive name-change policies](https://physicsworld.com/a/scientific-journal-publishers-announce-trans-inclusive-name-change-policies/). Quotes from Irving Rettig, 19 May 2021.
+
+- CNN: ['It's just human dignity.' Trans writers and journalists struggle to get old bylines corrected](https://amp.cnn.com/cnn/2021/06/01/media/removing-deadnames-trans-writers/index.html). Quotes from Theresa Tanenbaum, 1 June 2021.
+
+
+## Press Releases by Publishers
+
+- American Chemical Society: [New policy will allow authors an easy route to change names on previous publications](https://www.acs.org/content/acs/en/pressroom/newsreleases/2020/september/new-policy-will-allow-authors-easy-route-to-change-names-on-previous-publications.html). Quotes from Irving Rettig, 10 September 2020.
+
+- F1000 Research: [Open research publishers introduce trans-inclusive policies to allow authors to retroactively change their names on public records](https://blog.f1000.com/2020/09/28/open-research-publishers-introduce-trans-inclusive-polices-to-allow-authors-to-retroactively-change-their-names-on-public-records/). Quotes from Lilian Hunt, 28 September 2020.
+
+- eLife: [eLife Latest: New policy allows for name changes in published papers](https://elifesciences.org/inside-elife/066f1e3e/elife-latest-new-policy-allows-for-name-changes-in-published-papers). Links to Theresa Tanenbaum’s [Nature article](https://www.nature.com/articles/d41586-020-02145-3), 9 November 2020.
+
+- Wiley: [New Author Name Change Policy Supports a More Inclusive Publishing Environment](https://www.wiley.com/network/the-wiley-network/new-author-name-change-policy-supports-a-more-inclusive-publishing-environment). Quotes from Irving Rettig, 15 January 2021.
+
+- Elsevier: [Elsevier launches a trans-inclusive name change policy](https://www.elsevier.com/about/press-releases/corporate/elsevier-launches-a-trans-inclusive-name-change-policy). Cites our COPE guest post and has quotes from Theresa Tanenbaum, 29 March 2021.
+
+- Taylor&Francis: [Author name changes for published articles: Why straightforward, full, and discreet updates are important](https://authorservices.taylorandfrancis.com/author-name-changes-for-published-articles/). Cites our COPE guest post in footnote 1, 28 April 2021.
+
+- Hindawi: [Introducing a new name change policy to support inclusion](https://www.hindawi.com/post/introducing-new-name-change-policy-support-inclusion/). Cites our [Medium post](https://tesstanenbaum.medium.com/towards-a-trans-inclusive-publishing-landscape-893339b9868d), 10 June 2021.
