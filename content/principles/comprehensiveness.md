@@ -9,6 +9,8 @@ draft: false
 ## **Principle #2**
 *Name changes should remove all instances of an author's previous name from the records maintained and disseminated by the publisher.*
 
+<!--more-->
+
 Due to the aforementioned risks of disclosure, publishers must take care to not retain public facing records of the author’s previous name in any venue. This includes, but is not limited to, metadata, archival digital documents authored by requesting author as well as works citing them, tables of content, acknowledgments, and other paratextual materials, website URLs, search engines, database entries, in text citations, and bibliographic entries.
 
 In many ways, this principle is one of the most difficult to implement, due in part to a lack of existing infrastructures for such changes.
