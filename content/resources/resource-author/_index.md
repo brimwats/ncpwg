@@ -6,7 +6,7 @@ authors: twg
 tags:
 categories:
 series:
-date: '2020-10-16'
+date: '2021-06-19'
 draft: false
 ---
 
@@ -14,11 +14,12 @@ This section includes links to the articles and editorials we've written, as wel
 
 ## Articles & Editorials
 
-### Editorials
+- [Publishers: let transgender scholars correct their names](https://www.nature.com/articles/d41586-020-02145-3). Nature article by Theresa Jean Tanenbaum, 22 July 2020.
 
-- Vestibulum aliquam cursus odio vitae placerat. Etiam vel pharetra diam. Morbi molestie varius tincidunt. Morbi molestie tortor vitae metus venenatis, ut fermentum nisl luctus. Aenean at condimentum lorem, rhoncus dapibus nibh. Donec et dui consequat ipsum ultrices tristique vitae vitae est.
+- [Towards A Trans Inclusive Publishing Landscape](https://medium.com/the-name-change-policy-working-group/towards-a-trans-inclusive-publishing-landscape-893339b9868d) – Addressing common concerns about allowing transgender authors to change their names on previously published work. Essay by the original working group, 9 September 2020.
 
-### Articles
+- [For academic publishing to be trans-inclusive, authors must be allowed to retroactively change their names](https://blogs.lse.ac.uk/impactofsocialsciences/2020/09/30/for-academic-publishing-to-be-trans-inclusive-authors-must-be-allowed-to-retroactively-change-their-names/). LSE Impact Blog post by Lilian Hunt, 30 September 2020.
 
-- Sed efficitur nibh sed euismod dictum. Donec posuere, nisl a egestas dignissim, risus magna placerat tortor, quis tincidunt ipsum erat at nunc. Cras consectetur ex eget tortor fermentum mattis. Nullam sodales sed purus eget ornare. 
+- [Visible name changes promote inequity for transgender researchers](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001104). PLOS Biology Perspective by Leo Chan Gaskins and Craig R. McClain, 9 March 2021.
 
+- [Publishers: Changing the names of trans people in their own work is not enough](https://perspectivesblog.sagepub.com/blog/author-services/publishers-changing-the-names-of-trans-people-in-their-own-work-is-not-enough). SAGE Perspectives article by Theresa Jean Tanenbaum, 19 May 2021.
