@@ -12,6 +12,11 @@ draft: false
 
 This section includes links to the articles and editorials we've written, as well as email templates for reaching out to publishers
 
+## Existing Policies
+
+We have created [a public spreadsheet of publishers or journals with existing name change policies](https://emckclac-my.sharepoint.com/:x:/g/personal/k2032402_kcl_ac_uk/EVsKedB_EEhMireN1G8OB8IBnhb9q5v8nUigm5FG9N1Ffg). It includes links to the full policy as well as at-a-glance information on whether each policy is compatible with the [guiding principles](/principles/) described in our guest post for the Committee on Publication Ethics.
+If you are aware of any policies missing from that spreadsheet, please let us know!
+
 ## Articles & Editorials
 
 - [Publishers: let transgender scholars correct their names](https://www.nature.com/articles/d41586-020-02145-3). Nature article by Theresa Jean Tanenbaum, 22 July 2020.
