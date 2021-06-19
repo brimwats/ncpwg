@@ -7,7 +7,7 @@ tags:
 categories:
 series:
 date: '2020-10-16'
-draft: false
+draft: true
 ---
 
 Sample Name Change Policy for Publishers
