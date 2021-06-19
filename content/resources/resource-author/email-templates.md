@@ -7,7 +7,7 @@ tags:
 categories:
 series:
 date: '2020-10-16'
-draft: false
+draft: true
 ---
 
 This is a repository of email templates that can be used to contact publishers.
