@@ -1,13 +1,7 @@
 main:
-  - name: About
-    url: '#about'
-    weight: 1
-  - name: Principles
-    url: /principles/
-    weight: 2
   - name: Resources
     url: /resources/
-    weight: 3
+    weight: 1
   - name: Working Group Members
     url: /authors/twg/
-    weight: 4
+    weight: 2

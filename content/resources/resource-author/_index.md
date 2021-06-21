@@ -1,5 +1,5 @@
 ---
-title: Author Resources
+title: Resources for Authors
 description: This section includes a list of publishers and journals with existing name change policies, links to articles and editorials we’ve written, as well as email templates for reaching out to publishers.
 toc: true
 authors: twg

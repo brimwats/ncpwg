@@ -1,19 +1,19 @@
 ---
-title: Five guiding principles and best practices
+title: Resources
 draft: false
 # Section you want to display
-section: principles
+section: resources
 # Pages count
 count: 5
 # Options: card, plain and masonry.
-style: plain
+style: card
 
-weight: 2
+weight: 4
 widget:
   handler: pages
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: md
 
   sidebar:
     # Options: left and right. Leave blank to hide.

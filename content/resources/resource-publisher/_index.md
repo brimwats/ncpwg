@@ -1,5 +1,5 @@
 ---
-title: Publisher Resources
+title: Resources for Publishers
 description: This section includes resources for publishers who want to introduce a name change policy.
 toc: true
 authors: twg
