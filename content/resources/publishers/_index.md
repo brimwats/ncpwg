@@ -6,7 +6,7 @@ authors: twg
 tags:
 categories:
 series:
-date: '2021-06-19'
+date: '2021-06-26'
 draft: false
 ---
 This section includes resources for publishers who want to introduce a name change policy.
@@ -15,7 +15,7 @@ This section includes resources for publishers who want to introduce a name chan
 
 ## Existing Policies
 
-- We have outlined [five high-level principles for trans-inclusive name changes in academic publishing](/principles/). The Committee on Publication Ethics has [formed a working group](https://publicationethics.org/news/update-cope-guidance-regarding-author-name-changes) that will publish more detailed guidance based on these high-level principles soon.
+- We have outlined [five high-level principles for trans-inclusive name changes in academic publishing](/resources/principles/). The Committee on Publication Ethics has [formed a working group](https://publicationethics.org/news/update-cope-guidance-regarding-author-name-changes) that will publish more detailed guidance based on these high-level principles soon.
 
 - We have created a [public spreadsheet of publishers or journals with existing name change policies](https://t.co/RW550fAaQ8) and whether they follow these high-level principles.
 
