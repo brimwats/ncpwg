@@ -6,7 +6,7 @@ authors: twg
 tags:
 categories:
 series:
-date: '2021-06-19'
+date: '2021-06-26'
 draft: false
 ---
 
@@ -16,7 +16,7 @@ This section includes resources for authors: A list of publishers and journals w
 
 ## Existing Policies
 
-We have created [a public spreadsheet of publishers or journals with existing name change policies](https://t.co/RW550fAaQ8). It includes links to the full policy as well as at-a-glance information on whether each policy is compatible with the [guiding principles](/principles/) described in our guest post for the Committee on Publication Ethics.
+We have created [a public spreadsheet of publishers or journals with existing name change policies](https://t.co/RW550fAaQ8). It includes links to the full policy as well as at-a-glance information on whether each policy is compatible with the [guiding principles](/resources/principles/) described in our guest post for the Committee on Publication Ethics.
 If you are aware of any policies missing from that spreadsheet, please let us know!
 
 ## Articles & Editorials
