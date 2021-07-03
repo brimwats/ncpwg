@@ -17,11 +17,11 @@ H Michael Schwartz is an Organizational Behavior PhD student at Case Western Res
 
 ### BM Watson
 ![](https://publicationethics.org/files/u7140/bm-watson-90x90.jpg)
-Brian M Watson (@brimwats) is a PhD student at the University of British Columbia's School of Information focusing on equitable cataloging in galleries, archives, museums, and special collections. They are the Director of HistSex.com, an open access resource for the history of sexuality, and contribute the Homosaurus LGBTQ linked data vocabulary. Additionally, they serve as the Archivist-Historian of the Consensual Nonmonogamy Taskforce of the APA.
+Brian M Watson ([@brimwats](https://twitter.com/brimwats)) is a PhD student at the University of British Columbia's School of Information focusing on equitable cataloging in galleries, archives, museums, and special collections. They are the Director of [HistSex.com](https://histsex.org), an open access resource for the history of sexuality, and contribute the Homosaurus LGBTQ linked data vocabulary. Additionally, they serve as the Archivist-Historian of the Consensual Nonmonogamy Taskforce of the APA.
 
 ### Teddy G Goetz
 ![](https://publicationethics.org/files/u7140/teddy-goetz-90x90.jpg)
-Teddy G Goetz (he/him or they/them) is a fourth year medical student at Columbia University, College of Physicians and Surgeons. Previously, he studied biochemistry and gender studies at Yale, conducting research on a wide spectrum of biologically and socially determined aspects of gender based health disparities, including earning his MS developing the first animal model of transgender hormone therapy. His interests include psychiatry, LGBTQ health, women’s health, narrative medicine, and physician advocacy. More about his work can be found at teddygoetz.com.
+Teddy G Goetz (he/him or they/them) is a fourth year medical student at Columbia University, College of Physicians and Surgeons. Previously, he studied biochemistry and gender studies at Yale, conducting research on a wide spectrum of biologically and socially determined aspects of gender based health disparities, including earning his MS developing the first animal model of transgender hormone therapy. His interests include psychiatry, LGBTQ health, women’s health, narrative medicine, and physician advocacy. More about his work can be found at [teddygoetz.com](https://www.teddygoetz.com).
 
 ### Katta Spiel
 ![](https://publicationethics.org/files/u7140/katta-spiel-90x90.jpg)
@@ -36,5 +36,5 @@ Mike Hill (he/him/his) is a professor of mathematics at UCLA. A theoretical math
 Originally from the UK, [Emily](https://emilydoesastro.com) ([@emilydoesastro](https://twitter.com/emilydoesastro)) is an astronomy PhD student at the University of Heidelberg in Germany. Her research focuses on detecting new star clusters in our own galaxy using machine learning and data from ESA’s Gaia satellite. Her activism work started during her undergrad, where she was heavily involved in her university’s LGBT+ society. More recently, she has been working on improving name change policies in astronomy journals.
 
 ### Jost Migenda
-Jost Migenda is a postdoc in astroparticle physics at King’s College London. Their work focuses on supernova neutrino research and DAQ development for the Hyper-Kamiokande experiment and they are a member of SNEWS 2.0, which uses neutrino detectors around the world to provide an early warning to astronomers when the next galactic supernova happens.
+[Jost Migenda](https://twitter.com/JostMigenda) is a postdoc in astroparticle physics at King’s College London. Their work focuses on supernova neutrino research and DAQ development for the Hyper-Kamiokande experiment and they are a member of SNEWS 2.0, which uses neutrino detectors around the world to provide an early warning to astronomers when the next galactic supernova happens.
 Within the Name Change Policy Working Group, Jost is mainly responsible for updating the [public spreadsheet of publishers and journals with existing name change policies](/resources/authors/).
