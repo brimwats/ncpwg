@@ -30,6 +30,8 @@ This section includes articles on author name changes or press releases from pub
 
 - CNN: ['It's just human dignity.' Trans writers and journalists struggle to get old bylines corrected](https://amp.cnn.com/cnn/2021/06/01/media/removing-deadnames-trans-writers/index.html). Quotes from Theresa Tanenbaum, 1 June 2021.
 
+- Space.com: [Transgender astronomers speak out about outdated name change policies](https://www.space.com/transgender-astronomers-name-update-scientific-journals). Quotes from Emily Hunt, 1 July 2021.
+
 
 ## Press Releases by Publishers
 
