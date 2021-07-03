@@ -30,3 +30,8 @@ Katta Spiel is an [FWF Hertha-Firnberg scholar](https://www.fwf.ac.at/en/researc
 ### Mike Hill
 ![](https://publicationethics.org/files/u7140/mike-hill-90x90.jpg)
 Mike Hill (he/him/his) is a professor of mathematics at UCLA. A theoretical mathematician, his primary research studies questions in topology using techniques from algebra. He is a cofounder of [Spectra: the association for LGBT mathematicians](http://lgbtmath.org/), and he continues to serve on the board there.
+
+## Additional Members
+### Jost Migenda
+Jost Migenda is a postdoc in astroparticle physics at King’s College London. Their work focuses on supernova neutrino research and DAQ development for the Hyper-Kamiokande experiment and they are a member of SNEWS 2.0, which uses neutrino detectors around the world to provide an early warning to astronomers when the next galactic supernova happens.
+Within the Name Change Policy Working Group, Jost is mainly responsible for updating the [public spreadsheet of publishers and journals with existing name change policies](/resources/authors/).
