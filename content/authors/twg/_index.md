@@ -32,6 +32,9 @@ Katta Spiel is an [FWF Hertha-Firnberg scholar](https://www.fwf.ac.at/en/researc
 Mike Hill (he/him/his) is a professor of mathematics at UCLA. A theoretical mathematician, his primary research studies questions in topology using techniques from algebra. He is a cofounder of [Spectra: the association for LGBT mathematicians](http://lgbtmath.org/), and he continues to serve on the board there.
 
 ## Additional Members
+### Natalya Evans
+Natalya Evans is a PhD Candidate in Chemical Oceanography at the University of Southern California. She investigates reactive intermediates across redox gradients, such as sulfide formed within reducing microenvironments in large sinking particles in Oxygen Deficient Zones or benthic Fe(II) fluxes in hypoxic waters. She is particularly interested in how climate change-driven deoxygenation will impact these processes. Within the Name Change Policy Working Group, she has been advocating oceanography and other geoscience journals to adopt trans-inclusive name change policies.
+
 ### Emily Hunt
 Originally from the UK, [Emily](https://emilydoesastro.com) ([@emilydoesastro](https://twitter.com/emilydoesastro)) is an astronomy PhD student at the University of Heidelberg in Germany. Her research focuses on detecting new star clusters in our own galaxy using machine learning and data from ESA’s Gaia satellite. Her activism work started during her undergrad, where she was heavily involved in her university’s LGBT+ society. More recently, she has been working on improving name change policies in astronomy journals.
 
