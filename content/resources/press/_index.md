@@ -32,6 +32,8 @@ This section includes articles on author name changes or press releases from pub
 
 - Space.com: [Transgender astronomers speak out about outdated name change policies](https://www.space.com/transgender-astronomers-name-update-scientific-journals). Quotes from Emily Hunt, 1 July 2021.
 
+- Nature: [Scientific publishers expedite name changes for authors](https://doi.org/10.1038/d41586-021-02014-7). Quotes from Theresa Tanenbaum, 21 July 2021.
+
 
 ## Press Releases by Publishers
 
