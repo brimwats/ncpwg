@@ -41,3 +41,6 @@ Originally from the UK, [Emily](https://emilydoesastro.com) ([@emilydoesastro](h
 ### Jost Migenda
 [Jost Migenda](https://twitter.com/JostMigenda) is a postdoc in astroparticle physics at King’s College London. Their work focuses on supernova neutrino research and DAQ development for the Hyper-Kamiokande experiment and they are a member of SNEWS 2.0, which uses neutrino detectors around the world to provide an early warning to astronomers when the next galactic supernova happens.
 Within the Name Change Policy Working Group, Jost is mainly responsible for updating the [public spreadsheet of publishers and journals with existing name change policies](/resources/authors/).
+
+### Amalie Trewartha
+Amalie Trewartha (she/her) is a research scientist in the Accelerated Materials Design and Discovery group at Toyota Research Institute, where she works on electric vehicle technologies. Previously, she was a postdoc at Lawrence Berkeley National Laboratory, working on applications of Natural Language Processing to scientific text, and was lead developer on the MatScholar and COVIDScholar projects.
