@@ -6,7 +6,7 @@ authors: twg
 tags:
 categories:
 series:
-date: '2021-06-19'
+date: '2021-08-02'
 draft: false
 ---
 
@@ -34,6 +34,9 @@ This section includes articles on author name changes or press releases from pub
 
 - Nature: [Scientific publishers expedite name changes for authors](https://doi.org/10.1038/d41586-021-02014-7). Quotes from Theresa Tanenbaum, 21 July 2021.
 
+- The New York Times: [New Policy Aims to Help Transgender Researchers Update Names on Old Work](https://www.nytimes.com/2021/07/28/science/published-research-name-change-transgender.html). Quotes from Amalie Trewartha, 28 July 2021.
+  - (Related articles: [NBC News](https://www.nbcnews.com/nbc-out/out-news/new-effort-will-help-trans-researchers-update-names-published-works-rcna1529), [Symmetry Magazine](https://www.symmetrymagazine.org/article/changing-a-name-without-forfeiting-credit))
+
 
 ## Press Releases by Publishers
 
@@ -50,3 +53,5 @@ This section includes articles on author name changes or press releases from pub
 - Taylor&Francis: [Author name changes for published articles: Why straightforward, full, and discreet updates are important](https://authorservices.taylorandfrancis.com/author-name-changes-for-published-articles/). Cites our COPE guest post in footnote 1, 28 April 2021.
 
 - Hindawi: [Introducing a new name change policy to support inclusion](https://www.hindawi.com/post/introducing-new-name-change-policy-support-inclusion/). Cites our [Medium post](https://tesstanenbaum.medium.com/towards-a-trans-inclusive-publishing-landscape-893339b9868d), 10 June 2021.
+
+- Lawrence Berkeley National Laboratory: [Scientific Publishing Organizations and National Laboratories Partner on Transgender-Inclusive Name-Change Process for Published Papers](https://newscenter.lbl.gov/2021/07/28/transgender-inclusive-name-change-process-for-published-papers/). Quotes from Amalie Trewartha, 28 July 2021.
