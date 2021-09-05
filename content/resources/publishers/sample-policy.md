@@ -14,19 +14,36 @@ Sample Name Change Policy for Publishers
 
 <!--more-->
 
-## Proin pretium lorem a justo euismod condimentum
+## Policy Template
 
-Donec tortor nunc, feugiat non porttitor tristique, dictum vitae nibh. Integer vel mollis ante. Cras sed elementum nulla, vel placerat lectus. Cras ligula diam, blandit sed vehicula eu, aliquet vel leo. Curabitur sagittis nunc vel nulla tempor sagittis. Phasellus elementum mi malesuada libero vehicula sodales eget id augue. Duis consequat egestas tortor, vitae volutpat nibh gravida ultricies. Morbi maximus sed felis posuere luctus. Cras ultrices condimentum purus, eget iaculis nulla. Cras vulputate est in justo sodales varius. Maecenas auctor velit vel urna sodales, et sodales enim maximus. Proin tempus, metus sit amet ultrices luctus, justo eros finibus nibh, a volutpat ipsum lectus in leo. Pellentesque at dictum metus.
+### Introduction
+JOURNAL/PUBLISHER NAME is committed to supporting requests for author name changes and pronoun changes. Names changes and pronoun changes are available upon request, and approved without documentation. All requests will be handled with confidentiality and as quickly as possible.
 
-### Vivamus dapibus nunc ac fringilla pellentesque
+The sections below are the 5 Guiding Principles and Best Practices from “A Vision for a More Trans-Inclusive Publishing World” (https://publicationethics.org/news/vision-more-trans-inclusive-publishing-world). 
 
+### Accessibility
+Name changes should be available to authors upon request without legal documentation, unnecessary barriers, burdens, or labor placed upon the author making the request.
+Authorial name changes to previously published articles may be requested by an author for any reason, including name changes due to marriage or divorce; nonwestern naming structures; or gender identity. Non-binary or trans authors who wish to request a change to a previous publication are particularly encouraged to contact the editors. Authors will not be asked to provide official or legal documentation of the name change, and all requests will be kept confidential by the editors. If applicable, any pronoun changes (as in a biographical entry) may be requested at the same time.
 
-Pellentesque porttitor a tortor et egestas. Phasellus aliquet mattis velit in elementum. Suspendisse viverra turpis in risus tincidunt, et malesuada elit eleifend. Sed eu elit arcu. Cras tincidunt mauris purus, vehicula aliquam elit tincidunt eget. Nunc at justo quis augue sagittis auctor sed eu magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc non nibh mattis, tempus tortor sed, iaculis metus. Morbi quis leo dignissim, viverra massa sit amet, faucibus ex. In hac habitasse platea dictumst. Vivamus tristique sem ac tortor venenatis, vel auctor metus vulputate. Maecenas facilisis odio et enim euismod, et ullamcorper enim congue. Nullam ut dolor eget urna aliquet bibendum sit amet a odio. Aenean vitae diam vel metus imperdiet ullamcorper consectetur ac mauris. Maecenas sed lorem vitae nibh porta venenatis.
+### Comprehensiveness
+Name changes should remove all instances of an author's previous name from the records maintained and disseminated by the publisher.
+Any request for a name change will result in removal of the earlier name from any and all publication repositories. This extends to both the metadata of the article as well as the PDF of the article itself. Although some publication flows may be out of the scope of JOURNAL/PUBLISHER NAME, the editors will make any effort to ensure that name changes are reflected in reprints and downstream publications. 
 
-## In eu nisl ac ante finibus accumsan vitae vitae eros
+### Invisibility
+Name changes should not draw attention to the gender identity of an author, nor create a clear juxtaposition between the current name and the previous name.
+In order to maintain the author’s privacy, name changes will not be announced, nor will any notices be published that draw attention to the changes. Co-authors will not be notified of the change. 
 
-Mauris odio nulla, porta in lacinia vel, faucibus quis turpis. Nunc congue faucibus nisi eget feugiat. Integer nec magna purus. Mauris at elit in risus mollis pretium. Morbi at elementum elit, eu condimentum quam. Maecenas maximus eget turpis ac tristique. Nunc scelerisque mi ex, eu pulvinar ante accumsan vitae.
+### Expediency and Simplicity
+Name changes should be implemented in a timely manner, and with a minimum of bureaucratic overhead.
+Once received, requests will be processed in an expedient manner and will not require deliberation by the editorial/publication board. 
 
-## Aliquam vitae augue egestas
+### Recurrence and Maintenance
+Publishers should regularly audit and correct new instances of changed names in order to prevent ongoing dissemination of incorrect information.
 
-Vivamus eget orci ac magna efficitur tincidunt et non urna. Cras mattis molestie nibh, ac posuere lectus bibendum a. Praesent consectetur vulputate dolor eget porta. Fusce ultrices ipsum in tortor consectetur, finibus maximus odio aliquet. Nunc dui odio, fringilla eget quam sed, gravida pretium lorem. Curabitur felis libero, commodo eget pharetra eu, blandit eu lectus. Nunc laoreet nisi purus, in dignissim nibh elementum ut. Nunc sit amet elementum urna. Pellentesque auctor imperdiet lorem, ut egestas arcu. Donec sed magna nec neque molestie aliquet non nec lorem. Phasellus sed libero tortor.
+JOURNAL/PUBLISHER NAME editors will cross-reference citations and bibliographies of newly submitted articles against an internal list of authors who have requested name changes in order to ensure that the earlier name is not included in any new articles published in JOURNAL/PUBLISHER NAME.
+
+## Recommendations following policy introduction: 
+- Promote Name Change Policy in the next couple of issues, in the editorial or introduction chapters
+- Have a designated contact person/people to confer with authors and make name changes and pronoun changes.
+- Communicate that all authors are eligible to request a name change
+- Include on/under “Policies” section in/on journal/publishers website home or sub-page and in “Guide for authors and reviewers” page (if relevant)
