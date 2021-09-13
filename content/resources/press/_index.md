@@ -6,7 +6,7 @@ authors: twg
 tags:
 categories:
 series:
-date: '2021-08-02'
+date: '2021-09-13'
 draft: false
 ---
 
@@ -36,6 +36,8 @@ This section includes articles on author name changes or press releases from pub
 
 - The New York Times: [New Policy Aims to Help Transgender Researchers Update Names on Old Work](https://www.nytimes.com/2021/07/28/science/published-research-name-change-transgender.html). Quotes from Amalie Trewartha, 28 July 2021.
   - (Related articles: [NBC News](https://www.nbcnews.com/nbc-out/out-news/new-effort-will-help-trans-researchers-update-names-published-works-rcna1529), [Symmetry Magazine](https://www.symmetrymagazine.org/article/changing-a-name-without-forfeiting-credit))
+
+- Phys.org: [Frustrated scientists convince astronomy journal to implement trans-inclusive name change policy](https://phys.org/news/2021-09-frustrated-scientists-convince-astronomy-journal.html). Quotes from Emily Hunt, 10 September 2021.
 
 
 ## Press Releases by Publishers
