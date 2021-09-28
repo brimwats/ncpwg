@@ -35,6 +35,7 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
+![Example image](/images/NCPWGIcon.png#center)
 ## Introduction
 
 The [Trans Name Change Policy Working Group](/authors/twg/) was founded to encourage the amendment or updating of publisher name change policies for transgender, nonbinary, gender non-conforming authors who have been deeply harmed from publisher policies. These policies have also harmed people who change their names due to marriage or divorce, indigenous authors with name changes, or foreign authors with misspellings.
