@@ -44,3 +44,5 @@ Within the Name Change Policy Working Group, Jost is mainly responsible for upda
 
 ### Amalie Trewartha
 Amalie Trewartha (she/her) is a research scientist in the Accelerated Materials Design and Discovery group at Toyota Research Institute, where she works on electric vehicle technologies. Previously, she was a postdoc at Lawrence Berkeley National Laboratory, working on applications of Natural Language Processing to scientific text, and was lead developer on the MatScholar and COVIDScholar projects.
+
+### Amy J. Ko
