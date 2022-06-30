@@ -5,7 +5,7 @@ bio: A directory of members of the group.
 ## Original Working Group Contributors
 ### Theresa Jean Tanenbaum (“Tess”)
 ![](https://publicationethics.org/files/u7140/theresa-tanenbaum-90x90.jpg)
-Theresa Tanenbaum is an Assistant Professor at the University of California in the Department of Informatics, where she is the founder of [the Transformative Play Lab.](https://transformativeplay.ics.uci.edu/Tess-Tanenbaum/) Dr Tanenbaum’s work is engaged with issues of gender, identity, and narrative. Dr Tanenbaum’s work is playful, provocative, and interdisciplinary, frequently straddling the line between art, design, advocacy, and research. She helped draft the [Association for Computing Machinery’s (ACM) name change policy](https://www.acm.org/publications/policies/author-name-changes): the first such policy to be formally adopted by a major publisher. Her [article in Nature advocating for more trans inclusive name change policies in academic publishing](https://doi.org/10.1038/d41586-020-02145-3) has been cited by multiple publishers who have adopted similar policies.
+Theresa Tanenbaum is a Professor at the University of California in the Department of Informatics, where she is the founder of [the Transformative Play Lab.](https://transformativeplay.ics.uci.edu/Tess-Tanenbaum/) Dr Tanenbaum’s work is engaged with issues of gender, identity, and narrative. Dr Tanenbaum’s work is playful, provocative, and interdisciplinary, frequently straddling the line between art, design, advocacy, and research. She helped draft the [Association for Computing Machinery’s (ACM) name change policy](https://www.acm.org/publications/policies/author-name-changes): the first such policy to be formally adopted by a major publisher. Her [article in Nature advocating for more trans inclusive name change policies in academic publishing](https://doi.org/10.1038/d41586-020-02145-3) has been cited by multiple publishers who have adopted similar policies.
 
 ### Irving Rettig
 ![](https://publicationethics.org/files/u7140/irving-rettig-90x90.jpg)
@@ -13,7 +13,7 @@ Irving D Rettig is a 5th year chemistry PhD candidate at Portland State Universi
 
 ### H Michael Schwartz
 ![](https://publicationethics.org/files/u7140/h-michael-schwartz-90x90_0.jpg)
-H Michael Schwartz is an Organizational Behavior PhD student at Case Western Reserve University's Weatherhead School of Management. Their research interests center around transgender experiences in organizations, allyship, and positive psychology, while they most like to teach leader/self development, practical positive psychology, and organizational development.
+H Michael Schwartz is an Organizational Behavior PhD. Candidate at Case Western Reserve University's Weatherhead School of Management. Their research interests center around transgender experiences in organizations, allyship, and positive psychology, while they most like to teach leader/self development, practical positive psychology, and organizational development.
 
 ### BM Watson
 ![](https://publicationethics.org/files/u7140/bm-watson-90x90.jpg)
@@ -46,3 +46,9 @@ Within the Name Change Policy Working Group, Jost is mainly responsible for upda
 Amalie Trewartha (she/her) is a research scientist in the Accelerated Materials Design and Discovery group at Toyota Research Institute, where she works on electric vehicle technologies. Previously, she was a postdoc at Lawrence Berkeley National Laboratory, working on applications of Natural Language Processing to scientific text, and was lead developer on the MatScholar and COVIDScholar projects.
 
 ### Amy J. Ko
+![Amy J. Ko](/images/mug-ajko.jpg)
+[Amy J. Ko](https://faculty.washington.edu/ajko/) (she/her) is a Professor at The Information School at the University of Washington, Seattle. She studies our individual and collective struggle to understand computing and harness it for play, power, equity, and justice. She publishes about this research in the Computing Education, Human-Computer Interaction, and Software Engineering communities. She also the Program Chair for *Informatics* and the Editor-in-Chief, for *ACM TOCE*.
+
+### Phoebe O. Toups Dugas
+![Phoebe O. Toups Dugas](/images/PhoebeDugas.png)
+Phoebe O. Toups Dugas (she/her) is an Associate Professor of Computer Science at New Mexico State University and Director of the Play & Interactive Experiences for Learning (PIxL) Lab. Her research is in the intersection of game design, human-computer interaction, mixed reality, and design for emergency management. She has been actively involved in ACM conferences around human-computer interaction.

@@ -5,3 +5,6 @@ main:
   - name: Working Group Members
     url: /authors/twg/
     weight: 2
+  - name: Contact & Services
+    url: /contact-and-services/
+    weight: 3
