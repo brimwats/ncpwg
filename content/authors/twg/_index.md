@@ -51,4 +51,7 @@ Amalie Trewartha (she/her) is a research scientist in the Accelerated Materials 
 
 ### Phoebe O. Toups Dugas
 ![Phoebe O. Toups Dugas](/images/PhoebeDugas.png)
-Phoebe O. Toups Dugas (she/her) is an Associate Professor of Computer Science at New Mexico State University and Director of the Play & Interactive Experiences for Learning (PIxL) Lab. Her research is in the intersection of game design, human-computer interaction, mixed reality, and design for emergency management. She has been actively involved in ACM conferences around human-computer interaction.
+[Phoebe O. Toups Dugas](https://orcid.org/0000-0002-6192-2004) (she/her) is an Associate Professor of Computer Science at New Mexico State University and Director of the Play & Interactive Experiences for Learning (PIxL) Lab. Her research is in the intersection of game design, human-computer interaction, mixed reality, and design for emergency management. She has been actively involved in ACM conferences around human-computer interaction.
+
+### Danica J Sutherland
+[Danica J Sutherland](https://djsutherland.ml) (she/they) is an Assistant Professor of Computer Science at the University of British Columbia, and a Canada CIFAR AI Chair at Amii. She works on machine learning, including on representation learning, kernel methods, and statistical testing. She is also a core organizer at Queer in AI, and has worked on trans inclusion around name changes and other issues in AI venues.

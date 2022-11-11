@@ -16,6 +16,8 @@ This section includes articles on author name changes or press releases from pub
 
 ## Articles
 
+- Game Developer [MobyGames will now let developers remove "AKA" listings from their profiles](https://www.gamedeveloper.com/culture/mobygames-will-now-let-developers-remove-aka-listings-from-their-profiles). Quotes from Dr. Theresa Jean Tanenbaum and this website. August 12, 2022
+
 - The Scientist: [Publishers Develop Inclusive Name-Change Policies](https://www.the-scientist.com/news-opinion/publishers-develop-inclusive-name-change-policies-67740). Quotes from Theresa Tanenbaum, 14 July 2020.
 
 - Pink News: [A trans academic asked her publishers to change her name on her past works. They all refused](https://www.pinknews.co.uk/2020/07/27/deadnamed-transgender-research-theresa-jean-tanenbaum-nature-journal/). Quotes from Theresa Tanenbaum’s [Nature article](https://www.nature.com/articles/d41586-020-02145-3), 27 July 2020.
