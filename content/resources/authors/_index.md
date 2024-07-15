@@ -33,6 +33,19 @@ If you are aware of any policies missing from that spreadsheet, please let us kn
 
 - [Advocating for Trans Inclusive Name Change Policies and Practices](https://www.youtube.com/watch?v=eGR8TQpNj14). Recording (with subtitles) of talk by Theresa Jean Tanenbaum, 22 July 2021.
 
+## Queer, Trans and Gender Diverse Metadata Resources:
+
+Check out these resources by metadata professionals for your own reference or for sharing best pratices with publishers:
+
+- [Metadata Best Practices for Trans and Gender Diverse Resources](https://zenodo.org/doi/10.5281/zenodo.10076876)
+    - This document is the result of a year of work and collaboration by the Trans Metadata Collective (TMDC; https://transmetadatacollective.org/), a group of dozens of cataloguers, librarians, archivists, scholars, and information professionals with a concerted interest in improving the description and classification of trans and gender diverse people in GLAMS (Galleries, Libraries, Archives, Museums and Special Collections). The Collective’s primary goal was to develop a set of best practices for the description, cataloguing, and classification of information resources as well as the creation of metadata about trans and gender diverse people, including authors and other creators
+
+- [Best Practices for Queer Metadata](https://zenodo.org/doi/10.5281/zenodo.12580530)
+    - This document is the result of two years of work by a group of nearly one hundred knowledge organisers, cataloguers, librarians, archivists, scholars, and information professionals with a concerted interest in improving the metadata treatment of queer people, communities, and items in GLAMS (Galleries, Libraries, Archives, Museums, and Special Collections) and other informational institutions. Their work has been supported by over 800 peer reviewers; combined, these groups make up the Queer Metadata Collective (QMDC). 
+The QMDC builds upon earlier work done by the Trans Metadata Collective (TMDC), a similarly-organised group of metadata workers and information professionals with a concerted interest in improving the metadata representation of trans and gender-diverse people. The work of the TMDC culminated in Metadata Best Practices for Trans and Gender Diverse Resources, focusing on the description, cataloguing, and classification of information resources as well as the creation of metadata about trans and gender-diverse people, including authors, communities, and other creators. Following the publication of the Best Practices, several TMDC members founded and developed the QMDC over the summer of 2022. 
+This document focuses on metadata by and about queer people, communities, and resources. While there is significant overlap between queer metadata and trans and gender diverse metadata, QMDC’s recommendations should not be seen as excluding or superseding TMDC’s, as trans and gender diverse people, communities, and resources have specific needs. For best practices and recommendations about trans and gender-diverse resources, please consult the TMDC document. If the TMDC and QMDC recommendations conflict (we are not aware of any instances in which they do), prefer the TMDC document for trans and gender diverse resources and the QMDC for other types of queer resources.
+
+
 ## Email Template for Authors to requesting name changes
 
 *This template might be used to advocate to a publisher with no known stated policy. Amy J. Ko drafted it to reach out to IEEE, and B.M. Watson edited it to be more generic but feel free to edit or adapt it for your own use.*
