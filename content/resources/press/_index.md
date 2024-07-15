@@ -41,6 +41,7 @@ This section includes articles on author name changes or press releases from pub
 
 - Phys.org: [Frustrated scientists convince astronomy journal to implement trans-inclusive name change policy](https://phys.org/news/2021-09-frustrated-scientists-convince-astronomy-journal.html). Quotes from Emily Hunt, 10 September 2021.
 
+- [New inclusive journal policy to allow transgender authors to change names on published works](https://www.editage.com/insights/new-inclusive-journal-policy-to-allow-transgender-authors-to-change-names-on-published-works?refer-type=article). Aug 13, 2021.
 
 ## Press Releases by Publishers
 
@@ -59,3 +60,4 @@ This section includes articles on author name changes or press releases from pub
 - Hindawi: [Introducing a new name change policy to support inclusion](https://www.hindawi.com/post/introducing-new-name-change-policy-support-inclusion/). Cites our [Medium post](https://tesstanenbaum.medium.com/towards-a-trans-inclusive-publishing-landscape-893339b9868d), 10 June 2021.
 
 - Lawrence Berkeley National Laboratory: [Scientific Publishing Organizations and National Laboratories Partner on Transgender-Inclusive Name-Change Process for Published Papers](https://newscenter.lbl.gov/2021/07/28/transgender-inclusive-name-change-process-for-published-papers/). Quotes from Amalie Trewartha, 28 July 2021.
+
