@@ -55,3 +55,6 @@ Amalie Trewartha (she/her) is a research scientist in the Accelerated Materials 
 
 ### Danica J Sutherland
 [Danica J Sutherland](https://djsutherland.ml) (she/they) is an Assistant Professor of Computer Science at the University of British Columbia, and a Canada CIFAR AI Chair at Amii. She works on machine learning, including on representation learning, kernel methods, and statistical testing. She is also a core organizer at Queer in AI, and has worked on trans inclusion around name changes and other issues in AI venues.
+
+### Jana Dunfield 
+[Jana Dunfield](https://research.cs.queensu.ca/home/jana/) (she/her) is an Assistant Professor in the School of Computing at Queen's University in Kingston, Ontario. Her research focuses on formal mathematical systems that support reliable and efficient software. In addition to advocating for name changes on academic works including dissertations, she is an organizer with QUAQE, the Queen's University Association for Queer Employees.
